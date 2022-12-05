@@ -29,4 +29,7 @@ All versions, author, date
 
 1) git remote add origin <repo_url_from_github>
 
-2)
+2) git push -u origin master
+pushes local repo to remote repo
+remote repo = origin
+branch =master ( default/main branch)

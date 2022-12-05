@@ -18,3 +18,9 @@ $ git add *
 
 4) git commit -m "Commit message"
 Creates a (last working) save point.
+
+5) git log
+All versions, author, date
+
+6) git checkout < file_name >
+-> revert to last working version

@@ -1,7 +1,7 @@
 # Git_Github_Notes
 
 
-
+--------------- local implementation -----------------------
 1) git init
 after cd into the folder that contains the project
 
@@ -24,3 +24,9 @@ All versions, author, date
 
 6) git checkout < file_name >
 -> revert to last working version
+
+----------------------- remote implementation ----------------------
+
+1) git remote add origin <repo_url_from_github>
+
+2)

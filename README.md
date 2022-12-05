@@ -3,27 +3,27 @@
 
 --------------- local implementation -----------------------
 1) git init
-after cd into the folder that contains the project
+ after cd into the folder that contains the project
 
 
 2) git status
-Shows untracked files in red insidide working directory.
-Shows tracked files/ files in staging area in green.
+ Shows untracked files in red insidide working directory.
+ Shows tracked files/ files in staging area in green.
 
 3) git add <file_name>
-Adds the file to the staging area i.e. the file is being tracked.
+ Adds the file to the staging area i.e. the file is being tracked.
 
-$ git add * 
-=> adds all the files/folders into the staging area
+ git add * 
+ adds all the files/folders into the staging area
 
 4) git commit -m "Commit message"
-Creates a (last working) save point.
+ Creates a (last working) save point.
 
 5) git log
-All versions, author, date
+ All versions, author, date
 
 6) git checkout < file_name >
--> revert to last working version
+ revert to last working version
 
 ----------------------- remote implementation ----------------------
 

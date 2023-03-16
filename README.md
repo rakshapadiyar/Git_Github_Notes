@@ -28,6 +28,7 @@
 ----------------------- remote implementation ----------------------   
 
 1) git remote add origin <repo_url_from_github>   
+Associates a remote repository at the url with the local repository.
 
 2) git push -u origin master   
 pushes local repo to remote repo   

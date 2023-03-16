@@ -33,6 +33,10 @@ Associates a remote repository at the url with the local repository. (can be don
 
 2) git push -u origin master   
 pushes local repo to remote repo   
+
+here remote repi -> origin
+branch of local repo that we wish to upload -> master
+
 remote repo = origin   
 branch =master ( default/main branch)   
 

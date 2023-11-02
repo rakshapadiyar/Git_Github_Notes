@@ -31,6 +31,9 @@
 Associates a remote repository at the url with the local repository. (can be done via ssh too. but, https is recommended_)
 'Origin' is the alias that we assign to the url.
 
+if origin of prev remote exists,   
+git remote remove origin
+
 2) git push -u origin master   
 pushes local repo to remote repo   
 

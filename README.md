@@ -7,7 +7,7 @@
 
 
 2) git status   
- Shows untracked files in red insidide working directory.
+ Shows untracked files in red insidide working directory.   
  Shows tracked files/ files in staging area in green.   
 
 3) git add <file_name>   
@@ -28,17 +28,17 @@
 ----------------------- remote implementation ----------------------   
 
 1) git remote add origin <repo_url_from_github>   
-Associates a remote repository at the url with the local repository. (can be done via ssh too. but, https is recommended_)
-'Origin' is the alias that we assign to the url.
+Associates a remote repository at the url with the local repository. (can be done via ssh too. but, https is recommended_)   
+'Origin' is the alias that we assign to the url.   
 
 if origin of prev remote exists,   
-git remote remove origin
+git remote remove origin   
 
 2) git push -u origin master   
 pushes local repo to remote repo   
 
-here remote repi -> origin
-branch of local repo that we wish to upload -> master
+here remote repi -> origin   
+branch of local repo that we wish to upload -> master   
 
 remote repo = origin   
 branch =master ( default/main branch)   
